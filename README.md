@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi All!
+My name is Igor and i'm student !
